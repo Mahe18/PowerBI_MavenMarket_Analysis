@@ -1,5 +1,3 @@
-**Description:**
 The "raw_data" folder serves as a repository within the MavenMarket Analysis project on GitHub, holding all the essential data required to complete the project successfully. This folder houses the original, unaltered datasets sourced directly from Maven Market, a multi-national grocery chain with locations in Canada, Mexico, and the United States. These datasets are the foundation upon which the entire data analysis and business intelligence workflow are built.
 
 By preserving the raw data in this folder, it ensures transparency and reproducibility in the analysis process, allowing other collaborators and users to access and verify the integrity of the data used for the MavenMarket Analysis project. As the initial stage of data processing, this repository plays a crucial role in the project, enabling data shaping, modeling, and the creation of interactive reports using Power BI.
-
